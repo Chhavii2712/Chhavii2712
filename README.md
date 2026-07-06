@@ -125,9 +125,9 @@ A Java OOP application for tracking and reporting student attendance, built arou
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Chhavii2712&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-woad-tau-37.vercel.app/api?username=Chhavii2712&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Chhavii2712&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhavii2712&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-woad-tau-37.vercel.app/api/top-langs/?username=Chhavii2712&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
